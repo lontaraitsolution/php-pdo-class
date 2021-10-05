@@ -4,5 +4,5 @@ namespace Lontara\DB;
 
 class DB
 {
-  echo "Ini Class DB"
+  echo "Ini Class DB";
 }
